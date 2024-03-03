@@ -1,2 +1,2 @@
 # python-challenge
-Analyze company financial data with Python
+Analyze two different data sets in python, to demonstrate simple summary analysis. 
