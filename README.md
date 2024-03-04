@@ -9,11 +9,11 @@ JoeyForetabbait/python-challenge/PyBank/main.py
 
 Pybank Analysis text file path :
 
-JoeyForetabbait/python-challenge/PyBank/Analysis/PyBank.txt
+JoeyForetabbait/python-challenge/PyBank/Analysis/Pybank.txt
 
 Pypoll :
 JoeyForetabbait/python-challenge/PyPoll/main.py
 
 Pypoll Analysis text file path :
 
-JoeyForetabbait/python-challenge/PyBank/Analysis/election_results.txt
+JoeyForetabbait/python-challenge/PyBank/Analysis/election_analysis.txt
